@@ -2,13 +2,13 @@
 
 - :scientist: I am a research student at Rivers State University
 
-- :: A Data Analyst by necessity 
+-  A Data Analyst by necessity 
 
 - :zap: I also do (love) Graphic Design 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Researcher and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Software Engineering.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ugonna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ugonna-g-chukwuemeka/)
  
@@ -23,9 +23,9 @@
 </div>
 
 # Stats
-### :fire: My Stats :
+### :laughing:
 
-#
+
 
 
 <!--
