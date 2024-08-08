@@ -10,7 +10,7 @@
 
 - :seedling: Exploring Software Engineering.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ugonna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ugonna-g-chukwuemeka/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Ugonna-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ugonna-chuks-b61023282/)
  
 # :hammer_and_wrench: Languages and Tools
 
